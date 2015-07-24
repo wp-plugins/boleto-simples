@@ -8,7 +8,7 @@ Plugin Name: Boleto Simples
 Plugin URI: http://www.mktvirtual.com.br/
 Description: Rotina de Integração com API do Boleto Simples, para geração rápida de boletos, antes de configurar o boleto, faça seu cadastro no site www.boletosimples.com.br
 Version: 0.5
-Author: Robson Miranda
+Author: ooprogramador
 Author URI: http://www.mktvirtual.com.br
 */
 

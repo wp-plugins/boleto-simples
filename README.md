@@ -2,7 +2,7 @@
 * Contributors: Robson Miranda
 * Tags: Boleto, Boleto Simples, Bill bank
 * Requires at least: 4.0
-* Tested up to: 4.0
+* Tested up to: 4.2.3
 * Stable tag: 0.5
 * License: GPLv2 or later
 
